@@ -41,3 +41,6 @@
 
 **BANDWIDTH =**
 49.99MHz
+**Marks split up**
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/8c13f124-ceb3-4ae0-8ddc-dbf795e2b17a" />
+
