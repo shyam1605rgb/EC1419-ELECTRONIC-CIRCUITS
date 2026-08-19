@@ -5,5 +5,11 @@
 
 
 ## TINKER CAD CIRCUIT DIAGRAM
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/991198b6-8d1d-46be-b563-c3d390716046" />
+
 
 <img width="860" height="227" alt="image" src="https://github.com/user-attachments/assets/2cd08752-9469-424d-8283-a306c0ccac15" />
+
+## Marks Split Up
+<img width="1539" height="1080" alt="image" src="https://github.com/user-attachments/assets/2804cf58-16fd-49cf-925e-f9c90507172f" />
+
