@@ -6,5 +6,10 @@
 
 
 ## TINKER CAD OUTPUT CIRCUIT
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/c3d04a75-c999-4495-8564-27a43b267225" />
+
 
 <img width="831" height="157" alt="image" src="https://github.com/user-attachments/assets/08c25fa5-a963-4100-8ea2-4c7e2669bb49" />
+## Marks split up
+<img width="1539" height="1080" alt="WhatsApp Image 2026-08-19 at 11 23 50 AM" src="https://github.com/user-attachments/assets/582c9af7-2b28-46b5-802f-73306e6c7b30" />
+
